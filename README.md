@@ -1,1 +1,1 @@
-# PYTHON-practice
+# PYTHON-numpy-practice
